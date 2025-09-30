@@ -4,7 +4,13 @@
     "x": 0,
     "y": 0,
     "uniqueID": "131308d3-f8fb-4536-b741-07d32a4d7984",
-    "ioValues": [],
+    "ioValues": [
+        {
+            "name": "Input (1)",
+            "ioValue": 10,
+            "currentEquation": null
+        }
+    ],
     "topLevel": true,
     "allAtoms": [
         {
@@ -14,6 +20,27 @@
             "y": 0.5,
             "uniqueID": "40b50225-371c-478a-a4af-a3d44c6530e5",
             "ioValues": []
+        },
+        {
+            "atomType": "Input",
+            "name": "Input (1)",
+            "x": 0.025384615384615384,
+            "y": 0.26734693877551025,
+            "uniqueID": "b2bb9721-9ea7-404b-8c6f-9cad245c22fc",
+            "ioValues": [],
+            "type": "number"
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.21586475942782835,
+            "y": 0.41836734693877553,
+            "uniqueID": "dfab1411-0d26-40f7-86f4-f4fc55b52a76",
+            "ioValues": [],
+            "fileName": "drawing-1.svg",
+            "type": "SVG",
+            "repoOwner": "simonmuldoon",
+            "repoName": "Test"
         }
     ],
     "allConnectors": [],
