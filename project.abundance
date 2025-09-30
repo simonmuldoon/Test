@@ -6,7 +6,16 @@
     "uniqueID": "131308d3-f8fb-4536-b741-07d32a4d7984",
     "ioValues": [],
     "topLevel": true,
-    "allAtoms": [],
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": "40b50225-371c-478a-a4af-a3d44c6530e5",
+            "ioValues": []
+        }
+    ],
     "allConnectors": [],
     "unitsKey": "MM",
     "fileTypeVersion": 1,
